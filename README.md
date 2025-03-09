@@ -1,8 +1,10 @@
-<br clear="both">
-
 <div align="left">
   <img height="490" src="https://i.redd.it/0k6meqvps4h91.gif"  />
 </div>
+
+###
+
+<p align="left">I'm a final-semester Informatics student passionate about Mobile Application Development and UI/UX Design. I have experience building efficient and user-friendly mobile apps using Flutter, Kotlin, and Java, with a strong focus on creating intuitive and visually appealing user experiences.</p>
 
 ###
 
@@ -31,20 +33,18 @@
 
 ###
 
-<h1 align="left">Hello World!! I'm Jihan, a Junior Mobile Developer</h1>
-
-###
-
-<br clear="both">
+<h2 align="left">📃 Overview</h2>
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=itsjihansyah&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsjihansyah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+![](https://github-contributor-stats.vercel.app/api?username=itsjihansyah&limit=5&theme=jolly&combine_all_yearly_contributions=true)
+
 ###
 
-<h2 align="left">💻 Tech Stack:</h2>
+<h2 align="left">💻 Tech Stack</h2>
 
 ###
 
@@ -85,6 +85,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 </div>
+
 
 ###
 
