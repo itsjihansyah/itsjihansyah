@@ -1,3 +1,9 @@
+<h1 align="left">Jihan Syahira's Profile</h1>
+
+###
+
+<br clear="both">
+
 <div align="left">
   <img height="490" src="https://i.redd.it/0k6meqvps4h91.gif"  />
 </div>
@@ -45,8 +51,6 @@
 ###
 
 <h2 align="left">💻 Tech Stack</h2>
-
-###
 
 <br clear="both">
 
