@@ -40,7 +40,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsjihansyah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-![](https://github-contributor-stats.vercel.app/api?username=itsjihansyah&limit=5&theme=jolly&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=itsjihansyah&limit=4&theme=jolly&combine_all_yearly_contributions=true)
 
 ###
 
