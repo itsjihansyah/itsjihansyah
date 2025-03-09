@@ -1,9 +1,3 @@
-<h1 align="left">🧚🏻‍♀️Jihan Syahira</h1>
-
-###
-
-<br clear="both">
-
 <div align="left">
   <img height="500" src="https://i.redd.it/0k6meqvps4h91.gif"  />
 </div>
