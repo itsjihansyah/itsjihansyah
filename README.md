@@ -1,11 +1,7 @@
-<img align="left" height="500" src="https://i.redd.it/0k6meqvps4h91.gif"  />
+<br clear="both">
 
-###
-
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=itsjihansyah&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=itsjihansyah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsjihansyah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <img height="500" src="https://i.redd.it/0k6meqvps4h91.gif"  />
 </div>
 
 ###
@@ -13,27 +9,9 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/jihansyahira/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=511E78&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="jihansyah2022@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=511E78&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.behance.net/gallery/170516593/Graphic-Designer-Portfolio-2023" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=8B2F97&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/JihanSyahira" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=8B2F97&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-  <a href="https://www.youtube.com/@jihansyahira5445" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=8B2F97&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <a href="https://www.instagram.com/jeyartwork/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=CF56A1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://jihansyadn.wixsite.com/dataanalytics/projects" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WEBSITE&logo=medium&label=&color=CF56A1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=itsjihansyah&locale=en&mode=daily&theme=jolly&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=itsjihansyah&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsjihansyah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=jolly&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -80,7 +58,28 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <a href="https://www.linkedin.com/in/jihansyahira/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=511E78&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="jihansyah2022@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=511E78&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.behance.net/gallery/170516593/Graphic-Designer-Portfolio-2023" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=8B2F97&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="behance logo"  />
+  </a>
+  <a href="https://www.youtube.com/@jihansyahira5445" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=8B2F97&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/jeyartwork/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=CF56A1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://jihansyadn.wixsite.com/dataanalytics/projects" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WEBSITE&logo=medium&label=&color=CF56A1&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+  </a>
+</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/itsjihansyah/itsjihansyah/output/snake.svg" alt="Snake animation" />
 
