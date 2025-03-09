@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="left">
-  <img height="480" src="https://i.redd.it/0k6meqvps4h91.gif"  />
+  <img height="490" src="https://i.redd.it/0k6meqvps4h91.gif"  />
 </div>
 
 ###
@@ -66,8 +66,6 @@
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="30" alt="anaconda logo"  />
   <img width="12" />
