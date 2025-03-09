@@ -6,8 +6,6 @@
 
 <p align="left">I'm a final-semester Informatics student passionate about Mobile Application Development and UI/UX Design. I have experience building efficient and user-friendly mobile apps using Flutter, Kotlin, and Java, with a strong focus on creating intuitive and visually appealing user experiences.</p>
 
-###
-
 <br clear="both">
 
 <div align="left">
